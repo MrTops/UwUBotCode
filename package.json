@@ -1,0 +1,20 @@
+{
+  "name": "UwUBotCode",
+  "version": "1.0.0",
+  "description": "The code for the UwU bot, gain UwUs and trade UwUs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrTops/UwUBotCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrTops/UwUBotCode/issues"
+  },
+  "homepage": "https://github.com/MrTops/UwUBotCode#readme"
+}
